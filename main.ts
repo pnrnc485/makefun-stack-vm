@@ -1,2 +1,1 @@
-eval(process.env.
-V)
+// placeholder - loader is rebuilt in the recorded session
